@@ -1,0 +1,15 @@
+/home/deemann/vscode-workspace/CSharp-Workspace/HelloWorld/bin/Debug/net8.0/HelloWorld
+/home/deemann/vscode-workspace/CSharp-Workspace/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/home/deemann/vscode-workspace/CSharp-Workspace/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/home/deemann/vscode-workspace/CSharp-Workspace/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/home/deemann/vscode-workspace/CSharp-Workspace/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/home/deemann/vscode-workspace/CSharp-Workspace/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/deemann/vscode-workspace/CSharp-Workspace/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/home/deemann/vscode-workspace/CSharp-Workspace/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/home/deemann/vscode-workspace/CSharp-Workspace/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/deemann/vscode-workspace/CSharp-Workspace/HelloWorld/obj/Debug/net8.0/HelloWorld.sourcelink.json
+/home/deemann/vscode-workspace/CSharp-Workspace/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/home/deemann/vscode-workspace/CSharp-Workspace/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/home/deemann/vscode-workspace/CSharp-Workspace/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/home/deemann/vscode-workspace/CSharp-Workspace/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/home/deemann/vscode-workspace/CSharp-Workspace/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
