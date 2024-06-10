@@ -1,0 +1,15 @@
+/home/deemann/local/src/CSharp-Workspace/TestProject/bin/Debug/net8.0/TestProject
+/home/deemann/local/src/CSharp-Workspace/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/home/deemann/local/src/CSharp-Workspace/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/home/deemann/local/src/CSharp-Workspace/TestProject/bin/Debug/net8.0/TestProject.dll
+/home/deemann/local/src/CSharp-Workspace/TestProject/bin/Debug/net8.0/TestProject.pdb
+/home/deemann/local/src/CSharp-Workspace/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/deemann/local/src/CSharp-Workspace/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/home/deemann/local/src/CSharp-Workspace/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/home/deemann/local/src/CSharp-Workspace/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/home/deemann/local/src/CSharp-Workspace/TestProject/obj/Debug/net8.0/TestProject.sourcelink.json
+/home/deemann/local/src/CSharp-Workspace/TestProject/obj/Debug/net8.0/TestProject.dll
+/home/deemann/local/src/CSharp-Workspace/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/home/deemann/local/src/CSharp-Workspace/TestProject/obj/Debug/net8.0/TestProject.pdb
+/home/deemann/local/src/CSharp-Workspace/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/home/deemann/local/src/CSharp-Workspace/TestProject/obj/Debug/net8.0/ref/TestProject.dll
