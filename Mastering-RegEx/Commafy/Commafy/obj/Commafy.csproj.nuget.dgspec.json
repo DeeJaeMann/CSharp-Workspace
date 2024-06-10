@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/deemann/vscode-workspace/CSharp-Workspace/Mastering-RegEx/Commafy/Commafy/Commafy.csproj": {}
+    "/home/deemann/local/src/CSharp-Workspace/Mastering-RegEx/Commafy/Commafy/Commafy.csproj": {}
   },
   "projects": {
-    "/home/deemann/vscode-workspace/CSharp-Workspace/Mastering-RegEx/Commafy/Commafy/Commafy.csproj": {
+    "/home/deemann/local/src/CSharp-Workspace/Mastering-RegEx/Commafy/Commafy/Commafy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/deemann/vscode-workspace/CSharp-Workspace/Mastering-RegEx/Commafy/Commafy/Commafy.csproj",
+        "projectUniqueName": "/home/deemann/local/src/CSharp-Workspace/Mastering-RegEx/Commafy/Commafy/Commafy.csproj",
         "projectName": "Commafy",
-        "projectPath": "/home/deemann/vscode-workspace/CSharp-Workspace/Mastering-RegEx/Commafy/Commafy/Commafy.csproj",
+        "projectPath": "/home/deemann/local/src/CSharp-Workspace/Mastering-RegEx/Commafy/Commafy/Commafy.csproj",
         "packagesPath": "/home/deemann/.nuget/packages/",
-        "outputPath": "/home/deemann/vscode-workspace/CSharp-Workspace/Mastering-RegEx/Commafy/Commafy/obj/",
+        "outputPath": "/home/deemann/local/src/CSharp-Workspace/Mastering-RegEx/Commafy/Commafy/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/deemann/.nuget/NuGet/NuGet.Config"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
