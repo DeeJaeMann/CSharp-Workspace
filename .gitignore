@@ -1,11 +1,11 @@
 *.dll
 *.exe
 *.pdb
-bin
-obj
+bin/
+obj/
 *.sln
 *.vscode
-packages
+packages/
 *.user
 *.suo
 Thumbs.db
