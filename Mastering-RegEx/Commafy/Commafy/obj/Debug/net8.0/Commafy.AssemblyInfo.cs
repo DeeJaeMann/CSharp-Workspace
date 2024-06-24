@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Commafy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a01dca81ed840142f7f35aad491322df4deb8035")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec75c5f97f4d1d9cf23f2a83061bdad8435aec04")]
 [assembly: System.Reflection.AssemblyProductAttribute("Commafy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Commafy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
