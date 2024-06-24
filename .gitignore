@@ -1,0 +1,12 @@
+.dll
+.exe
+.pdb
+bin
+obj
+.sln
+.vscode
+packages
+.user
+.suo
+Thumbs.db
+Desktop.ini
