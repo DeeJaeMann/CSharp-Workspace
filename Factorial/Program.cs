@@ -5,7 +5,16 @@ string input = Console.ReadLine();
 
 int Factorial(int number)
 {
-    return 0;
+    int result = 1;
+    Console.WriteLine($"Number is {number}");
+
+    for ( int thisNumber = number; thisNumber > 0; thisNumber--)
+    {
+        result *= thisNumber;
+        Console.WriteLine($"thisNumber {thisNumber} result {result}");
+    }
+
+    return result;
 }
 
 if ( int.TryParse(input, out number) )
